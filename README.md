@@ -1,4 +1,4 @@
-[comment]: <> (Code for blog post: http://codehandbook.org/creating-a-web-app-using-angularjs-python-mongodb/)
+<!--- Code for blog post: http://codehandbook.org/creating-a-web-app-using-angularjs-python-mongodb/ --->
 
 # Python Flask Remote App
 
